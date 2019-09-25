@@ -1,0 +1,13 @@
+categories:
+- jokers
+conversations:
+- - Conte-me uma piada
+  - call() jokers
+- - Conte uma piada
+  - call() jokers
+- - Piada
+  - call() jokers
+- - Diga uma piada
+  - call() jokers
+- - Contar piada
+  - call() jokers
